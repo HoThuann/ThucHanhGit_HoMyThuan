@@ -5,4 +5,3 @@ Cap nhat tinh nang tren nhanh feature-readme
 Dong cap nhat moi tren main
 
 Dong nay duoc sua truc tiep tren GitHub de test git pull
-Noi dung thu nghiem de revert
